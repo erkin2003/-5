@@ -1,0 +1,5 @@
+function mult(x, y) {
+   alert("13 * 22 = " + x * y)
+}
+
+mult(13, 22)
